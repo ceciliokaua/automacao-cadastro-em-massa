@@ -1,4 +1,5 @@
 🤖 Automação de Cadastro de Produtos com PyAutoGUI
+
 Este projeto é um script de automação robótica de processos (RPA) que realiza o cadastro automático de uma lista de produtos em um sistema web, utilizando a biblioteca PyAutoGUI para interagir com a interface gráfica e o Pandas para manipulação de dados.
 
 📋 Sobre o Projeto
@@ -26,7 +27,7 @@ Time: Para gerenciamento de intervalos de segurança entre comandos.
 Clone o repositório:
 
 Bash
-git clone https://github.com/ceciliokaua/projeto-automacao-com-pyautogui.git
+git clone https://github.com/ceciliokaua/automacao-cadastro-em-massa.git
 Instale as dependências:
 
 Bash
